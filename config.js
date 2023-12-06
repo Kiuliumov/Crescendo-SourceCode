@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        token: 'ODM0NDg4MzQ2MTcxOTMyNzAy.GJZMNg.CGX35zaHCBjrXNKT-95TqkLpXEUfWaOOheZJSw',
+        token: 'Enter your token here!',
         playing: 'by The Cantina',
         global: true,
         guild: 'XXX'
